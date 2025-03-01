@@ -23,7 +23,7 @@ const useNetwork = () => {
     };
 
     const measureSpeedAndLatency = async () => {
-      const testUrl = "https://thingproxy.freeboard.io/fetch/https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png";
+      const testUrl = "https://corsproxy.io/?https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png";
 
       const startTime = performance.now();
       try {
