@@ -4,7 +4,7 @@ import { RiSignalWifiOffFill } from "react-icons/ri";
 import { MdOutlineSignalWifiStatusbar4Bar } from "react-icons/md";
 import { PiSpeedometerFill } from "react-icons/pi";
 import { FaSignal } from "react-icons/fa";
-import useNetworkStatus from "./useNetworkStatus";
+import useNetworkStatus from "./useNetworkStatus.js";
 import { TbSignal2G, TbSignal3G, TbSignal4G, TbSignal5G, TbSignalLte } from "react-icons/tb";
 import { GiAerialSignal } from "react-icons/gi";
 
