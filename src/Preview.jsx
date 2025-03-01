@@ -1,5 +1,5 @@
 import React from "react";
-import useNetworkStatus from "mynetworkinfo";
+import useNetworkStatus from "./useNetworkStatus";
 import { IconContainer } from "./Container";
 import { RiSignalWifiOffFill } from "react-icons/ri";
 import { MdOutlineSignalWifiStatusbar4Bar } from "react-icons/md";
